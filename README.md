@@ -4,9 +4,9 @@
 
 Установка Golang
 
-sudp apt install golang
+sudo apt install golang
 
-весрия
+версия
 
 ![Установка и версия golang](https://user-images.githubusercontent.com/109212419/209213114-55178ea2-0a39-4fca-8866-f80af4cec027.jpg)
 
