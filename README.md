@@ -39,10 +39,12 @@ sudo apt install golang
   
   ## ОТВЕТ
   
- Код
- ![Задание 1](https://user-images.githubusercontent.com/109212419/209216734-6e223709-01b4-437f-884f-aae78bcbdd64.jpg)
+Код
+ 
+![Задание 1](https://user-images.githubusercontent.com/109212419/209216734-6e223709-01b4-437f-884f-aae78bcbdd64.jpg)
 
 Демонстрация
+
 ![Задание 1-1](https://user-images.githubusercontent.com/109212419/209216837-df115a8f-6d5e-4895-971e-398cae15500c.jpg)
 
   
