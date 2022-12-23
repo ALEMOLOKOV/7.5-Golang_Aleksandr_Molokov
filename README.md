@@ -72,3 +72,12 @@ sudo apt install golang
 В виде решения ссылку на код или сам код. 
 
 ## ОТВЕТ
+
+Код
+
+![код задание 3](https://user-images.githubusercontent.com/109212419/209403269-9009930c-08bf-468e-a2cd-0108002c79de.jpg)
+
+Демонстрация
+
+![результат задание 3](https://user-images.githubusercontent.com/109212419/209403280-db25c061-44b3-41bc-8fed-91c422d7b1a0.jpg)
+
