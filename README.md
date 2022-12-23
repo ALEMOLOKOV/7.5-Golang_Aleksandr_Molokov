@@ -1,4 +1,4 @@
-# 7.5_-_Golang_Aleksandr_Molokov
+# 7.5_Golang_Aleksandr_Molokov
 
 ## ЗАДАНИЕ 1
 
